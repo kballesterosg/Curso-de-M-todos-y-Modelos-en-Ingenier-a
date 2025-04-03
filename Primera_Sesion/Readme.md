@@ -10,4 +10,3 @@ En esta primera sesión del curso se establecerán las bases conceptuales del mo
 4.	Marco formal para el modelado y la simulación
 5.	Clasificación de los Modelos y Tipos de Modelado
 6.	Aplicaciones de Modelado
-![image](https://github.com/user-attachments/assets/fa7cd03f-fb19-4a35-87d8-fcde9fea7b8e)
