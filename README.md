@@ -1,1 +1,1 @@
-# Curso-de-M-todos-y-Modelos-en-Ingenier-a
+# Curso de Métodos y Modelos en Ingeniería
