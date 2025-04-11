@@ -4,7 +4,8 @@ En esta sesión abordaremos los modelos matemáticos clásicos, fundamentales pa
 
 ### Contenidos Temáticos
 
-7.	Modelos Matemáticos Clásicos\\
+7.	Modelos Matemáticos Clásicos
+  
    a.	Diferencias entre modelos determinísticos y estocásticos\\
    b.	Modelos Determinísticos
   	i.	Ecuaciones diferenciales (Ej. crecimiento poblacional de Malthus)
