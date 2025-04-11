@@ -10,7 +10,7 @@ b. Modelos Determiníticos
 i. Ecuaciones diferenciales (Ej. crecimiento poblacional de Malthus)  
 ii. Modelos de optimización (Ej. programación lineal para máximizar/minimizar beneficios o perdidas, modelo de transporte).  
 
-## 📂 Recursos
+### 📂 Recursos
 
 - [Notebook: Ecuaciones diferenciales en Python](link_a_tu_notebook)
 - [Notebook: Programación lineal con Scipy](link_a_tu_notebook)
