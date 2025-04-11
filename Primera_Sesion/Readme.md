@@ -13,7 +13,7 @@ En esta primera sesión del curso se establecerán las bases conceptuales del mo
 
 ### 📂 Recursos
 
-- [Notebook: Clasifiación de Modelos]([https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/Primera_Sesion.ipynb])
-- [Notebook: Modelos Lineales Vs NO Lineales]([link_a_tu_notebook](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/M-Lineal_Vs_NoLineal.ipynb))
-- [Notebook: Modelo de Crecimiento de Bosque y Captura de Carbono]([link_a_tu_presentacion](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/CrecimiBosque%26CapturaCarbono.ipynb))
-- [Presemtación Primera Sesión]([[link_a_tu_presentacion](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/Primera%20Sesio%CC%81n.pdf)])
+- [Notebook: Clasificación de Modelos](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/Primera_Sesion.ipynb)
+- [Notebook: Modelos Lineales vs No Lineales](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/M-Lineal_Vs_NoLineal.ipynb)
+- [Notebook: Modelo de Crecimiento de Bosque y Captura de Carbono](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/CrecimiBosque%26CapturaCarbono.ipynb)
+- [Presentación Primera Sesión (PDF)](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Primera_Sesion/Primera%20Sesio%CC%81n.pdf)
