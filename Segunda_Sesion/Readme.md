@@ -11,3 +11,8 @@ En esta sesión abordaremos los modelos matemáticos clásicos, fundamentales pa
   	i.	Ecuaciones diferenciales (Ej. crecimiento poblacional de Malthus)
   	ii.	Modelos de optimización (Ej. programación lineal para maximizar beneficios, modelo de transporte)
 
+## 📂 Recursos
+
+- [Notebook: Ecuaciones diferenciales en Python](link_a_tu_notebook)
+- [Notebook: Programación lineal con Scipy](link_a_tu_notebook)
+- [Presentación de la sesión](link_a_tu_presentacion)
