@@ -12,6 +12,9 @@ ii. Modelos de optimización (Ej. programación lineal para máximizar/minimizar
 
 ### 📂 Recursos
 
-- [Notebook: Ecuaciones diferenciales en Python](link_a_tu_notebook)
-- [Notebook: Programación lineal con Scipy](link_a_tu_notebook)
-- [Presentación de la sesión](link_a_tu_presentacion)
+- [Presentación de la Segunda Sesión](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Segunda_Sesion/Segunda_Sesion_Presentacion.pdf)
+- [Notebook: Modelos Determinísticos Vs Modelos Estocásticos](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Segunda_Sesion/M_DeterministicoVsEstocatico.ipynb)
+- [Notebook: Ejercicios Practicos de Modelos Determinísticos con enfoque en Ecuaciones Diferenciales](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Segunda_Sesion/Modelos_DeterEcuaciones.ipynb)
+- [Notebook: Programación lineal Modelos de optimización](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Segunda_Sesion/ProgrLineal_EjProduccion.ipynb)
+- [Notebook: Modelos de OPtimización - Transporte](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Segunda_Sesion/Modelo_Transporte.ipynb)
+
