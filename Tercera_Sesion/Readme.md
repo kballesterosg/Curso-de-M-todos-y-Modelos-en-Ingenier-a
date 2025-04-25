@@ -10,4 +10,8 @@ Un modelo estocástico representa procesos en los que el resultado de cada event
 
 ### 📂 Recursos
 
-- [Presentación de la Segunda Sesión](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Segunda_Sesion/Segunda_Sesion_Presentacion.pdf)
+- [Presentación de la Tercera Sesión](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Tercera_Sesion/Presentacion_Tercera_Sesion.pdf)
+- [Cuaderno de Colab de Monte Carlo](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Tercera_Sesion/M_Estocastico_IntroMonteCarlo.ipynb)
+- [Cuaderno de Colab Cadenas de Markov](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Tercera_Sesion/CadenasMarkov_MatrizEstacional.ipynb)
+- [Cuaderno de Colab - Ejercicio Clima](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Tercera_Sesion/CadenaMarkov_EjemploClima.ipynb)
+- [Datos Historicos de Sismos en Colombia](https://github.com/kballesterosg/Curso-de-M-todos-y-Modelos-en-Ingenier-a/blob/main/Tercera_Sesion/sismicidad_historica_Colombia.xlsx)
