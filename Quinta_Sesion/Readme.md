@@ -2,4 +2,4 @@
 
 ### Objetivo de la sesión
 
-Introducir y aplicar modelos estadísticos y de aprendizaje automático para análisis y predicción de datos, incluyendo regresión, series temporales y clustering.
+Introducir y aplicar modelos estadísticos y de aprendizaje automático para análisis y predicción de datos, incluyendo regresión y series temporales.
