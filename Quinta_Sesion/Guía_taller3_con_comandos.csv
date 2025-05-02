@@ -1,0 +1,19 @@
+Sección,Paso 1,Paso 2,Paso 3,Paso 4,Comandos Python
+1.1 Regresión lineal simple,Seleccionar variable meteorológica y PM2.5,Filtrar y limpiar datos,Usar LinearRegression de sklearn,"Graficar dispersión + línea de ajuste, mostrar R²","from sklearn.linear_model import LinearRegression
+modelo.fit(X, y)"
+1.2 Regresión múltiple,Seleccionar al menos 3 variables meteorológicas,Normalizar si es necesario,"LinearRegression.fit(X, y)","Comparar métricas R², MAE, RMSE","from sklearn.linear_model import LinearRegression
+modelo.fit(X, y)"
+1.3 Comparación por estación,Repetir análisis para 2-3 estaciones,Comparar coeficientes y métricas,Visualizar resultados en gráfico comparativo,Discutir diferencias geográficas,Comparar coef_ y R2 por estación
+2.1 Descomposición serie temporal,Resamplear a diario por estación,Usar seasonal_decompose (statsmodels),Graficar componentes,Interpretar estacionalidad y tendencia,from statsmodels.tsa.seasonal import seasonal_decompose
+2.2 Identificación de episodios,Calcular percentiles altos de PM2.5,Filtrar días con niveles extremos,Relacionar con variables meteorológicas,Usar boxplots o scatter por condición,"df['PM2.5'].quantile(0.95), df[df['PM2.5'] > umbral]"
+2.3 Proyección,"Elegir modelo (promedio móvil, tendencia)",Aplicar sobre serie 2016–2023,Proyectar 90 días,Graficar con datos históricos,df['PM2.5'].rolling(window=7).mean()
+3.1 Crear variable categórica,Clasificar PM2.5 en Buena/Moderada/Mala,Asignar etiquetas por umbrales,Validar distribución de clases,Preparar datos para clasificación,"df['Calidad'] = pd.cut(df['PM2.5'], bins=[0,12,35,500], labels=['Buena','Moderada','Mala'])"
+3.2 Árbol de decisión,Entrenar con DecisionTreeClassifier,Graficar árbol con plot_tree,Interpretar reglas,Identificar variable raíz,"from sklearn.tree import DecisionTreeClassifier
+modelo.fit(X, y)"
+3.3 Evaluar modelo,Generar predicciones,Obtener matriz de confusión,Calcular precisión y recall,Comentar sobre errores frecuentes,"from sklearn.metrics import confusion_matrix, classification_report"
+4A.1 Clustering de días,Promediar variables por día,Estandarizar datos,Aplicar KMeans,Determinar número de clusters,"from sklearn.cluster import KMeans
+kmeans.fit(X)"
+4A.2 Identificar grupos críticos,Analizar medias por cluster,Relacionar con episodios altos de PM2.5,Graficar con colores por grupo,Describir condiciones comunes,"df.groupby('cluster').mean(), plt.scatter(x, y, c=labels)"
+4B.1 Clustering de estaciones,Resumir promedio por estación,Estandarizar variables,Aplicar KMeans a estaciones,Visualizar grupos en mapa o tabla,"df.groupby('estacion').mean(), KMeans.fit(X_estaciones)"
+4B.2 Interpretación de grupos,Comparar ubicaciones geográficas,Evaluar diferencias en clima/PM2.5,Relacionar con zonas urbanas/industriales,Discutir implicaciones para política pública,Usar geopandas + matplotlib para mapa
+Pregunta final,Cruzar hallazgos de regresión y clustering,Describir patrones repetidos,Apoyar con gráficos,Proponer hipótesis explicativas,"Sintetizar coeficientes, reglas de árbol, y clusters"
